@@ -112,6 +112,7 @@
 - [Ayush Mandloi](https://github.com/ayushmandloi2)
 - [Anthony Hill](https://github.com/anthonyhi11)
 - [Filipe Pinato](https://github.com/tiofih)
+- [Lênin Ferreira](https://github.com/ilnen)
 - [Tristan Verduzco](https://github.com/VerduzcoTristan)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
